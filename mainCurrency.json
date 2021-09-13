@@ -1,0 +1,618 @@
+{
+  "result": {
+    "timestamp": "2021-09-10T15:23:12.006",
+    "status": 200,
+    "code": "CURR.00000",
+    "message": "Success"
+  },
+  "data": {
+    "cash": {
+      "clientType": null,
+      "servicePackage": null,
+      "rates": [
+        {
+          "value": "62.2000",
+          "direct": false,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 0,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "USD",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "6db04747-89e2-45b0-83ae-f3b3841dd342"
+        },
+        {
+          "value": "66.5000",
+          "direct": true,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 0,
+          "currencyCodeFrom": "USD",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "264327e6-f956-4dde-a9bb-70139b81416d"
+        },
+        {
+          "value": "66.3000",
+          "direct": false,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 1,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "EUR",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "0c50e337-d011-4fdf-8dd8-22b00e937190"
+        },
+        {
+          "value": "71.0000",
+          "direct": true,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 1,
+          "currencyCodeFrom": "EUR",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "53254a5d-e7ba-4263-a799-3109f791f8bf"
+        },
+        {
+          "value": "79.5000",
+          "direct": false,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 2,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "GBP",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "02118943-bead-46dd-9078-b4444d53b57e"
+        },
+        {
+          "value": "85.0000",
+          "direct": true,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 2,
+          "currencyCodeFrom": "GBP",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "569e0453-ea9c-47c2-a0e0-200400064ffa"
+        },
+        {
+          "value": "62.9000",
+          "direct": false,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 3,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "CHF",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "6ce2eb5b-cff6-4118-b147-0072fa8a700f"
+        },
+        {
+          "value": "67.1000",
+          "direct": true,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 3,
+          "currencyCodeFrom": "CHF",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "30783185-1aab-4586-8834-8ac30fbad9ad"
+        },
+        {
+          "value": "0.5560",
+          "direct": false,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 4,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "JPY",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 0,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "aa034a1b-e7a9-4716-ad49-98201c33f854"
+        },
+        {
+          "value": "0.5940",
+          "direct": true,
+          "date": "2021-09-09T21:00:00.000",
+          "priority": 4,
+          "currencyCodeFrom": "JPY",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 0,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "1d79c70b-36d3-411c-b9a7-98c7fb57f832"
+        }
+      ]
+    },
+    "online": {
+      "clientType": null,
+      "servicePackage": null,
+      "rates": [
+        {
+          "value": "74.9999",
+          "direct": false,
+          "date": "2021-09-09T09:03:22.000",
+          "priority": 1,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "USD",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "07613790-0d66-48be-8e73-12501235012f"
+        },
+        {
+          "value": "1.9999",
+          "direct": true,
+          "date": "2021-09-09T09:03:22.000",
+          "priority": 1,
+          "currencyCodeFrom": "USD",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "703cb952-16a7-4e74-b647-19882fe81d87"
+        },
+        {
+          "value": "80.9999",
+          "direct": false,
+          "date": "2021-09-09T09:03:22.000",
+          "priority": 2,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "EUR",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "8053e71b-2410-4698-ad0d-034e5960bfc6"
+        },
+        {
+          "value": "1.9999",
+          "direct": true,
+          "date": "2021-09-09T09:03:22.000",
+          "priority": 2,
+          "currencyCodeFrom": "EUR",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "818361ac-ff5e-46c9-8eaf-300c028abc22"
+        },
+        {
+          "value": "104.6349",
+          "direct": false,
+          "date": "2021-08-09T09:20:40.000",
+          "priority": 3,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "GBP",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "e9f443f9-893f-4d1d-9890-e268f51c0983"
+        },
+        {
+          "value": "99.8073",
+          "direct": true,
+          "date": "2021-08-09T09:20:40.000",
+          "priority": 3,
+          "currencyCodeFrom": "GBP",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "5fa267a0-cb24-4a8a-a24d-ba99d1b9c8fb"
+        },
+        {
+          "value": "75.9999",
+          "direct": false,
+          "date": "2021-09-09T09:03:22.000",
+          "priority": 4,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "CHF",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "5168a3eb-485e-4b8f-b604-828e50c77197"
+        },
+        {
+          "value": "1.9999",
+          "direct": true,
+          "date": "2021-09-09T09:03:22.000",
+          "priority": 4,
+          "currencyCodeFrom": "CHF",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "fa8300b7-12db-4932-9246-1e8dafbfb535"
+        },
+        {
+          "value": "0.6854",
+          "direct": false,
+          "date": "2021-08-09T09:20:40.000",
+          "priority": 5,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "JPY",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 0,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "ce2177c7-a18c-42f3-8919-ad186690c28a"
+        },
+        {
+          "value": "0.6538",
+          "direct": true,
+          "date": "2021-08-09T09:20:40.000",
+          "priority": 5,
+          "currencyCodeFrom": "JPY",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 0,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "03ba1a90-d1b5-450c-8c9e-62f920766dd9"
+        },
+        {
+          "value": "11.6137",
+          "direct": false,
+          "date": "2021-08-09T09:20:40.000",
+          "priority": 6,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "CNY",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "04092ab2-f1b4-4eea-8242-89f3b60cc563"
+        },
+        {
+          "value": "11.0780",
+          "direct": true,
+          "date": "2021-08-09T09:20:40.000",
+          "priority": 6,
+          "currencyCodeFrom": "CNY",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "035e0371-0f9c-4bcd-a4f7-2494668039d9"
+        }
+      ]
+    },
+    "margin": {
+      "clientType": "COMMON",
+      "servicePackage": "ALL",
+      "rates": [
+        {
+          "value": "73.4609",
+          "direct": false,
+          "date": "2021-09-10T12:22:12.000",
+          "priority": 1,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "USD",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "d1299b58-e139-44f5-a9cc-f20da8aa7597"
+        },
+        {
+          "value": "72.0015",
+          "direct": true,
+          "date": "2021-09-10T12:22:12.000",
+          "priority": 1,
+          "currencyCodeFrom": "USD",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "c0d34d49-8af9-477a-886e-6e09367ea6af"
+        },
+        {
+          "value": "86.9373",
+          "direct": false,
+          "date": "2021-09-10T12:22:12.000",
+          "priority": 2,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "EUR",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "611b676b-8afa-456b-b507-9ed1fe82ad5e"
+        },
+        {
+          "value": "85.2092",
+          "direct": true,
+          "date": "2021-09-10T12:22:12.000",
+          "priority": 2,
+          "currencyCodeFrom": "EUR",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "565cb4c4-c2f9-46d2-babc-4b128afe3f6c"
+        },
+        {
+          "value": "11.4315",
+          "direct": false,
+          "date": "2021-09-10T12:22:11.000",
+          "priority": 3,
+          "currencyCodeFrom": "RUB",
+          "currencyCodeTo": "CNY",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "fc860926-3e02-4a41-950c-bc9856d55fa9"
+        },
+        {
+          "value": "11.2038",
+          "direct": true,
+          "date": "2021-09-10T12:22:11.000",
+          "priority": 3,
+          "currencyCodeFrom": "CNY",
+          "currencyCodeTo": "RUB",
+          "currencyScaleFrom": 1,
+          "currencyScaleTo": 1,
+          "currencyFractionFrom": 2,
+          "currencyFractionTo": 2,
+          "roundingRuleFrom": "DOWN",
+          "roundingRuleTo": "UP",
+          "rule": {
+            "minAmountCodeFrom": 0,
+            "maxAmountCodeFrom": null,
+            "minAmountCodeTo": 0,
+            "maxAmountCodeTo": null
+          },
+          "UID": "e955cd1e-813f-4fa5-bd96-e805505373a3"
+        }
+      ]
+    },
+    "actualDate": "2021-09-10T12:22:12.000",
+    "actualPeriod": "120"
+  }
+}
