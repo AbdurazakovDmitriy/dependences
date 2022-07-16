@@ -1,4 +1,1 @@
-      "areq": {
-        "acsUrl": "https://acs2.multicarta.ru:443/?CSMName=FIID/VBEX",
-        "creq": "eyJhY3NUcmFuc0lEIjoiMzllMWEwMTItODNlNi00NzE4LWEzN2QtOTdiNDE4MTVlZTc2IiwidGhyZWVEU1NlcnZlclRyYW5zSUQiOiIxNGRkOGZjYS1kMWQ3LTRkZDMtYjUyMS1iODExNWJkNGIwYWUiLCJjaGFsbGVuZ2VXaW5kb3dTaXplIjoiMDUiLCJtZXNzYWdlVHlwZSI6IkNSZXEiLCJtZXNzYWdlVmVyc2lvbiI6IjIuMS4wIn0"
-      }
+{"result":{"timestamp":"2022-07-16T17:22:31.212","status":200,"id":null,"code":"CRDP.00013","message":"Order completed"},"data":{"paymentId":"b53d692e-aa97-4a03-8be3-0e7bb044029d","amount":50.00,"responseDelay":0,"validityKey":null,"currency":"RUB","authorize":{"authorizationId":null,"method":"TDS","createTime":null,"tds":null,"tds1":null,"tds2":null,"areq":{"acsUrl":"https://3dsp2.vtb.ru:443/?CSMName=FIID/VB24","creq":"eyJhY3NUcmFuc0lEIjoiYTNmMjE5ZTctMGJkZi00OWIzLWJmMDktMzc4OTQzNGIyNzVmIiwidGhyZWVEU1NlcnZlclRyYW5zSUQiOiIyMjdmZTQyMS01YjU4LTQ2ZTUtOGVkNi03NWYxNTZlNzE2NmIiLCJjaGFsbGVuZ2VXaW5kb3dTaXplIjoiMDUiLCJtZXNzYWdlVHlwZSI6IkNSZXEiLCJtZXNzYWdlVmVyc2lvbiI6IjIuMS4wIn0"},"otp":null},"state":"PROCESSING","stateInfo":"Execution has been completed","updateDate":"2022-07-16T17:22:31.212"}}
